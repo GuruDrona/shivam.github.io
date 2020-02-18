@@ -5,7 +5,7 @@ html {
 html, body {
     margin: 0;
     width: 100%;
-    background-image: url(Background_2.jpg);
+    background-image: url(https://images.unsplash.com/photo-1579096090620-304b0f9aef96?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMDk0fQ&auto=format&fit=crop&w=660&q=80);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
